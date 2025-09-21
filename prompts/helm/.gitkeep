@@ -1,0 +1,2 @@
+# This file ensures the helm directory is tracked by git
+# The helm directory is intended to contain Helm-related prompts and templates
