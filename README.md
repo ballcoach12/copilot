@@ -1,6 +1,6 @@
 # GitHub Copilot Configuration Repository
 
-A curated collection of **chat modes**, **instructions**, and **prompts** designed to enhance GitHub Copilot's capabilities across different development scenarios and programming languages.
+A curated collection of **chat modes**, **instructions**, and **prompts** designed to enhance GitHub Copilot's capabilities across different development scenarios and programming languages.  Borrowed from https://github.com/github/awesome-copilot/tree/main/chatmodes
 
 ## Overview
 
